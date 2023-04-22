@@ -5,5 +5,5 @@ Bong game 2 Player
 The blue player moves using the W & S on the keyboard<h3>
 
 
-#![Game_Screen]
+![Game_Screen](https://raw.githubusercontent.com/as-ahmadsabbah/BONG-Game/main/bong.png)
 
