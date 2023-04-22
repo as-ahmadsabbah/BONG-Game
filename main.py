@@ -4,7 +4,7 @@ from paddle import Paddle
 from ball import ball
 from score import Scoreboard
 import time
-import keyboard
+import keyboard ##
 screen=Screen()
 screen.setup(width=800,height=600)
 screen.bgcolor("black")
