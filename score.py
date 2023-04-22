@@ -3,7 +3,7 @@ from turtle import Turtle
 class Scoreboard(Turtle):
     def __init__(self, position,name):
         super().__init__()
-        self.nameb=name
+        self.nameb=name#
         self.score = 0
         self.penup()
         self.color("white")
